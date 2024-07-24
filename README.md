@@ -1,4 +1,4 @@
-# 定制小丑人设
+# Joker模拟器
 ## 灵感来源
 拟基于 InternLM 实现,感谢Tutorial   (https://github.com/InternLM/Tutorial)
 > 随着互联网的发展，众多社区都有小丑的出现，虽然对当事人来说是比较惨的，但一定程度上增添了看客的乐趣。  
